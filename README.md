@@ -1,6 +1,7 @@
 <!-- ROOT readme.md -->
-# Swiss Crack: Highway Crack Detection
+# Automated Road Crack Localization to Guide Highway Maintenance
 
+[![DOI](https://zenodo.org/badge/994672005.svg)](https://doi.org/10.5281/zenodo.15574877)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
 [![Conda](https://img.shields.io/badge/Conda-Environment-green.svg)](environment.yml)
