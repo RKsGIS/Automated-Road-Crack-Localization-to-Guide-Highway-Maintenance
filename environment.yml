@@ -1,0 +1,22 @@
+name: swiss_crack
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - geopandas
+  - rasterio
+  - shapely
+  - requests
+  - numpy
+  - tqdm
+  - fiona
+  - gdal
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - opencv
+  - pandas
+  - pip
+  - pip:
+      - ultralytics
+      - pytorch-grad-cam

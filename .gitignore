@@ -1,0 +1,29 @@
+# Ignore files inside directories
+output/archives/*
+output/imagery/*
+output/dataset/*
+output/tiles/*
+
+
+# Do not ignore .gitkeep files (keep empty directories tracked)
+
+!data/processed/labelled_dataset/crack/.gitkeep
+!data/processed/labelled_dataset/no_crack/.gitkeep
+
+
+!output/dataset/test/.gitkeep
+!output/dataset/val/.gitkeep
+!output/dataset/train/.gitkeep
+
+
+!output/imagery/road_segments/.gitkeep
+!output/imagery/swiss_image/.gitkeep
+
+
+!output/tiles/tiff/.gitkeep
+!output/tiles/tolabel/.gitkeep
+
+
+# Ignore specific files
+.env
+.ipynb_checkpoints/test-checkpoint.ipynb
